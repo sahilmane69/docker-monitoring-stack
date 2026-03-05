@@ -30,7 +30,7 @@ cAdvisor → http://localhost:8080
 
 ## Grafana Dashboard
 
-![Grafana Dashboard](dashboard.png)
+![Grafana Dashboard](dashboard.jpeg)
 
 ## Author
 Sahil Mane
