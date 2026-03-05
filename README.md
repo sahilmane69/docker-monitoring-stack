@@ -26,7 +26,11 @@ docker-compose up -d
 
 Grafana → http://localhost:3000  
 Prometheus → http://localhost:9090  
-cAdvisor → http://localhost:8080
+cAdvisor → http://localhost:8080  
+
+## Grafana Dashboard
+
+![Grafana Dashboard](dashboard.png)
 
 ## Author
 Sahil Mane
